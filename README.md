@@ -1,4 +1,4 @@
-# Run-My-Store-E-Commerce-Backend
+# Run My Store E-Commerce Backend
 
 ## Description
 
@@ -36,7 +36,9 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 1. I learned how to create a decimal datatype from the article "Understanding the SQL Decimal data type" on sqlshack.com by Gauri Mahajan.  Here is a link to the article: https://www.sqlshack.com/understanding-sql-decimal-data-type/ 
 
-2.
+2. I learned how to link two models through another model and get their keys linked from reading articles on tabnine.com and stackoverflow.com.  Here are links to those articles: <br>
+tabnine: https://www.tabnine.com/code/javascript/functions/sequelize/BelongsToMany/belongsToMany  <br>
+Stack Overflow: https://stackoverflow.com/questions/29680359/how-to-use-sequelize-belongstomany-associations 
 
 3.
 
