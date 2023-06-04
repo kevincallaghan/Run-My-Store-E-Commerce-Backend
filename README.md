@@ -2,16 +2,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This tool allows an E-Commerce business to manage their business backend through a series of API's.  A business can add new products, tags, and categories, and link them all together using their associated ID fields.
 
 ## Table of Contents
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,17 +13,17 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project?
+Express, mysql2, dotenv, and Sequelize are required to run this program. to run this program.  Additionally, Insomnia is a helpful tool used to run the API Requests.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Link to Demo Video: https://watch.screencastify.com/v/YW46L67rBb0Q04MptWx2 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+To use this program, run the schema.sql in mysql to prepare the database.  You can seed the database with sample data, or you can run POST requests to fill the database manually.  I recommend using Insomnia to run the API requests.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
+![screenshot](assets/screenshot.jpg)
+
 
 ## Credits
 
@@ -40,11 +33,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 tabnine: https://www.tabnine.com/code/javascript/functions/sequelize/BelongsToMany/belongsToMany  <br>
 Stack Overflow: https://stackoverflow.com/questions/29680359/how-to-use-sequelize-belongstomany-associations 
 
-3.
 
-4.
-
-5.
 
 ## License
 
